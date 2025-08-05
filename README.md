@@ -25,7 +25,7 @@ This project predicts whether a patient has heart disease using clinical data an
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 ## Dataset
-Download the heart disease dataset <a href="">heart.csv</a> and place it in the project directory. You can find datasets like the UCI Heart Disease Dataset.
+Download the heart disease dataset <a href="https://github.com/LakshmiNarayana8464/Heart-Disease-Prediction-Using-Decision-Tree/blob/main/heart-disease.csv">heart.csv</a> and place it in the project directory. You can find datasets like the UCI Heart Disease Dataset.
 
 ## How to Run
 
